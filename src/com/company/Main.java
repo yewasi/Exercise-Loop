@@ -167,7 +167,7 @@ while (number <= 100) {
         }
         System.out.println("End");
 
-        System.out.println("test");
+
     }
 }
 
